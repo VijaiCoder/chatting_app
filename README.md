@@ -36,3 +36,11 @@ Dart SDK
 Firebase account and project
 
 Android Studio / VS Code
+
+# Theme 
+* dark mode
+* light mode
+
+# 📸 Screenshots
+
+![WhatsApp Image 2025-06-18 at 11 48 48_c4b7d754](https://github.com/user-attachments/assets/9afb4687-689f-44c0-86c3-98a25c5c1284)
