@@ -44,3 +44,11 @@ Android Studio / VS Code
 # 📸 Screenshots
 
 ![WhatsApp Image 2025-06-18 at 11 48 48_c4b7d754](https://github.com/user-attachments/assets/9afb4687-689f-44c0-86c3-98a25c5c1284)
+![WhatsApp Image 2025-06-18 at 11 48 49_7bd49dd0](https://github.com/user-attachments/assets/d689400f-bd95-4e86-a679-78e028e8a346)
+![WhatsApp Image 2025-06-18 at 11 48 49_b4ac5561](https://github.com/user-attachments/assets/a4759b7a-4a23-4849-bb8b-aff8ff70c7d5)
+![WhatsApp Image 2025-06-18 at 11 48 49_ea63b76c](https://github.com/user-attachments/assets/230af100-ad33-4bcc-8e14-3b68d538e082)
+![WhatsApp Image 2025-06-18 at 11 48 50_22ed7063](https://github.com/user-attachments/assets/6614c930-923d-404d-aa08-9db95a307f7e)
+
+
+
+
